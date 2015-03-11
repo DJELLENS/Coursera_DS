@@ -39,5 +39,6 @@
  %mkdir('/Users/damienjellens/Desktop/', fullfile(ratName, ratLfp)); 
  %mkdir('/Users/damienjellens/Desktop/', fullfile(ratName, ratRawdata)); 
  %mkdir('/Users/damienjellens/Desktop/', fullfile(ratName, ratProcessed)); 
+ %test
  
 close;
